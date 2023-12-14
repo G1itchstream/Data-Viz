@@ -12,8 +12,8 @@ body {
   width: 90%;
   padding: 50px 300px;
   position: relative;
-  background-color: rgba(255, 255, 255, 0.8); 
-  box-shadow: 0 0 20px rgba(0, 0, 0, 0.1); 
+  background-color: rgba(255, 255, 255, 0.9); 
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
 }
 
 .parallax-title {
@@ -31,7 +31,7 @@ body {
   flex-direction: row;
   align-items: center;
   justify-content: space-between;
-  background-color: rgba(255, 255, 255, 0.8); 
+  background-color: rgba(255, 255, 255, 0.9); 
   box-shadow: 0 0 20px rgba(0, 0, 0, 0.1); 
 }
 
@@ -144,8 +144,8 @@ body {
   max-width: 600px;
   margin: auto;
   padding: 20px 50px; 
-  background-color: rgba(255, 255, 255, 0.8); 
-  box-shadow: 0 0 20px rgba(0, 0, 0, 0.1); 
+  background-color: rgba(255, 255, 255, 0.9); 
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
 }
 
 .new-paragraph {
